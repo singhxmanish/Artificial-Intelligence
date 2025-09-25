@@ -1,4 +1,4 @@
-# Concept of axis - work along a direction - axis_0 = operation alomg axis, axis_1 = operation along row
+# Concept of axis
 import numpy as np
 import matplotlib.pyplot as plt
 
